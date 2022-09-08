@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+}
+
+#navegacion {
+    background-color: #eb0e19;
+}
+
+#navegacion nav a {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    margin-left: 40px;
+}
+footer {
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color:#eb0e19;
+}
+.col p {
+    text-align: justify;
+}
