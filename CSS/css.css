@@ -14,13 +14,15 @@
 .navbar-brand {
     margin-left: 40px;
 }
+
 footer {
     font-size: 15px;
     padding: 5px;
     text-align: center;
     color: white;
-    background-color:#eb0e19;
+    background-color: #eb0e19;
 }
+
 .col p {
     text-align: justify;
 }
